@@ -15,5 +15,6 @@ The individual servos of the MeArm are connected to a 5V power and ground with t
 * Figure out method to make arm more portable - try different WiFi modes. 
 
 ## External Resources / Insperation
-http://www.roboremo.com/
-http://nodemcu.com/index_en.html
+[RoboRemoFree](http://www.roboremo.com/)
+[nodeMCU](http://nodemcu.com/index_en.html)
+
