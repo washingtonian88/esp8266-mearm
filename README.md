@@ -1,5 +1,6 @@
 # esp8266-mearm
 Hobby project for controlling a MeArm 4 servo robot arm with an esp8266 via wireless internet. 
+[Check out the video here](https://youtu.be/cxozutfJ0Xk)
 
 ## Parts
 * [MeArm](http://www.mearm.com/)
